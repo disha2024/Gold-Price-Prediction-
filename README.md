@@ -33,6 +33,7 @@ The key steps in this project include:
 
 
 📈 Results
+
 1.The Random Forest model performed well in predicting gold prices.
 
 2.The predicted prices closely matched the actual trends in the test data.
