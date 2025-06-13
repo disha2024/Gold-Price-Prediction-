@@ -9,19 +9,24 @@ The key steps in this project include:
 4.Evaluating model performance
 5.Visualizing actual vs predicted prices
 
-🧰 Technologies Used
-Python
-pandas – for data manipulation
-NumPy – for numerical operations
-matplotlib & seaborn – for visualizations
-scikit-learn – for building and evaluating the ML model
+🔧 Technologies Used
 
-📊 Machine Learning Model
-I used the Random Forest Regressor, an ensemble algorithm that combines multiple decision trees to improve accuracy and control overfitting.
+ 🖥️ Programming Language
+- Python 3
+📦 Python Libraries
+- Flask – for creating the web application
+- NumPy – for numerical operations
+- scikit-learn – for machine learning model training and prediction
+- joblib – for saving and loading the ML model
+🌐 Web Technologies
+- HTML – to create the web form (UI)
+- Jinja2 – for HTML templating in Flask
+🧠 Machine Learning
+- Regression model trained on financial data
+- Features used: SPX, USO, SLV, EUR/USD
+💾 Deployment Ready
+- Can be hosted on platforms like Render, Replit, or PythonAnywhere
 
-Model evaluation metrics:
-1.R² Score: Measures how well the model explains the variance in the target variable.
-2.Mean Absolute Error (MAE): Measures the average error between actual and predicted values.
 
 📈 Results
 1.The Random Forest model performed well in predicting gold prices.
