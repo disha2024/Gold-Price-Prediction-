@@ -13,17 +13,21 @@ The key steps in this project include:
 
  🖥️ Programming Language
 - Python 3
+
 📦 Python Libraries
 - Flask – for creating the web application
 - NumPy – for numerical operations
 - scikit-learn – for machine learning model training and prediction
 - joblib – for saving and loading the ML model
+
 🌐 Web Technologies
 - HTML – to create the web form (UI)
 - Jinja2 – for HTML templating in Flask
+
 🧠 Machine Learning
 - Regression model trained on financial data
 - Features used: SPX, USO, SLV, EUR/USD
+
 💾 Deployment Ready
 - Can be hosted on platforms like Render, Replit, or PythonAnywhere
 
